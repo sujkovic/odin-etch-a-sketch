@@ -1,1 +1,3 @@
-# odin-etch-a-sketch
+# Etch-A-Sketch Website
+
+Simple drawing website with resizable canvas
